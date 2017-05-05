@@ -6,7 +6,7 @@ The training and test data set can be downloaded from https://disq.us/url?url=ht
 
 The code cmsisCNN/python/cnn_traffic.py contains the python for training the model from the given training set.
 
-The folder cmsis_cnn_NokiaLCD contains the complete source code.
+The folder cmsisCNN/cmsis_cnn_NokiaLCD contains the complete source code for implementing on TIVA TM4C123G LaunchPad Board.
 
 Before running the code, CMSIS-DSP Library has to be downloaded from https://github.com/ARM-software/CMSIS.
 Step-by-Step instructions for setting up the CMSIS-DSP library are given in www.ti.com/lit/an/spma041g/spma041g.pdf
