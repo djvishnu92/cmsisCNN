@@ -20,3 +20,11 @@ Usage
 3. For the given training data set, execute the python/cnn_traffic.py to train the model parameters. Vary the hyperparameters for the desired accuracy.
 4. Extract the parameters and store them in weights.h header file in cmsisCNN/cmsis_cnn_NokiaLCD/ folder.
 5. Use the main C code arm_matrix_example_f32.c to perform matrix multiplications effortlessly.
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Contributors
+1. Desai Jagannath Vishnuteja
+2. Suddpalli Krishna Chaitanya
+3. Jayanth K
