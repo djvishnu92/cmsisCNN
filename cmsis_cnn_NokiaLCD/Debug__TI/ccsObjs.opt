@@ -1,0 +1,1 @@
+"./arm_matrix_example_f32.obj" "./math_helper.obj" "./myNokiaLcd.obj" "./tm4c123gh6pm_startup_ccs.obj" "../driverlib.lib" "../tm4c123gh6pm.cmd" -llibc.a -l"/home/djvishnu92/workspace_v6_2/CMSIS-master/CMSIS/Lib/ARM/arm_cortexM4lf_math.lib" 
